@@ -1,6 +1,6 @@
-Learning the fundamentals of Java
+# Learning the fundamentals of Java
 
-## Files
+### Files
 
 - learnTheFundamentals
   - basicSyntax
@@ -14,4 +14,3 @@ Learning the fundamentals of Java
 
 - javac fileName.java
 - java fileName
-  .
