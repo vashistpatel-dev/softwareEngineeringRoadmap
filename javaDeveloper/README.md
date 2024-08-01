@@ -14,3 +14,4 @@ Learning the fundamentals of Java
 
 - javac fileName.java
 - java fileName
+  .
